@@ -261,8 +261,6 @@ footer {
     transform: scale(1.05);
     transition: transform 0.3s;
 }
-
-
 strong {
     font-weight: bold;
 }
@@ -270,3 +268,4 @@ strong {
 em {
     font-style: italic;
 }
+
